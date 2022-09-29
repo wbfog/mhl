@@ -1,0 +1,24 @@
+{
+  "name": "mhltv",
+  "version": "0.0.1",
+  "description": "wiki for menghualu",
+  "main": "index.js",
+  "authors": {
+    "name": "Hang",
+    "email": "hang.yan@hotmail.com"
+  },
+  "repository": "git@github.com:mhltv/mhltv.github.io.git/mhltv",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-plugin-permalink-pinyin": "^1.1.0",
+    "vuepress-plugin-rpurl": "^1.0.2"
+  },
+  "dependencies": {
+    "vuepress-theme-book": "^0.0.9"
+  }
+}
