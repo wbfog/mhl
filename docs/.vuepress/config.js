@@ -42,6 +42,10 @@ module.exports = {
         text: '线下',
         link: '/线下/',
       },
+      {
+        text: '二创',
+        link: '/二创/',
+      }
     ],
     sidebar: {
       '/出圈/': [
@@ -54,11 +58,22 @@ module.exports = {
           ]
         }
       ],
+      '/二创/': [
+        {
+          title: '二创',
+          collapsable: false,
+          children: [
+            '',
+            '同人曲'
+          ]
+        }
+      ],
       '/线下/': [
         {
           title: '线下',
           collapsable: false,
           children: [
+            '',
             '喜茶',
             '奈雪的茶',
             "十三余",
