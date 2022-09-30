@@ -47,8 +47,20 @@ module.exports = {
         link: '/二创/',
       },
       {
+        text: '录人',
+        link: '/录人/',
+      },
+      {
+        text: '主创',
+        link: '/主创/',
+      },
+      {
         text: '数据',
         link: '/数据/',
+      },
+      {
+        text: '科普',
+        link: '/科普/',
       }
     ],
     sidebar: {
@@ -68,6 +80,19 @@ module.exports = {
           collapsable: false,
           children: [
             ''
+          ]
+        }
+      ],
+      '/录人/': [
+        {
+          title: '录人',
+          collapsable: false,
+          children: [
+            '',
+            '缺德录人',
+            '高贵录人',
+            '录学',
+            '团建'
           ]
         }
       ],
