@@ -9,8 +9,8 @@
   },
   "repository": "git@github.com:mhltv/mhltv.github.io.git/mhltv",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },

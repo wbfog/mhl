@@ -36,7 +36,7 @@ module.exports = {
     nav: [
       {
         text: '出圈',
-        link: '/guide/',
+        link: '/出圈/',
       },
       {
         text: '线下',
@@ -44,14 +44,13 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/guide/': [
+      '/出圈/': [
         {
           title: '出圈',
           collapsable: false,
           children: [
             '',
-            'using-vue',
-            '线下'
+            '官媒'
           ]
         }
       ],
@@ -65,6 +64,8 @@ module.exports = {
             "十三余",
             '国风市集',
             "剧本杀",
+            "点茶",
+            "文化"
           ]
         }
       ],
