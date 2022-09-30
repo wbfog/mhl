@@ -67,7 +67,7 @@ module.exports = {
           title: '数据',
           collapsable: false,
           children: [
-            '',
+            ''
           ]
         }
       ],
@@ -78,6 +78,7 @@ module.exports = {
           children: [
             '',
             '插画',
+            '剪辑',
             '同人曲'
           ]
         }
