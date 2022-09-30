@@ -64,6 +64,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            '插画',
             '同人曲'
           ]
         }
