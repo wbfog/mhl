@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /menghualu.jpg
-tagline: 赵盼儿&刘亦菲
+tagline: 年少便知天仙好，东京一梦忘不了
 actionText: 进入 →
 actionLink: /线下/
 features:

@@ -45,6 +45,10 @@ module.exports = {
       {
         text: '二创',
         link: '/二创/',
+      },
+      {
+        text: '数据',
+        link: '/数据/',
       }
     ],
     sidebar: {
@@ -55,6 +59,15 @@ module.exports = {
           children: [
             '',
             '官媒'
+          ]
+        }
+      ],
+      '/数据/': [
+        {
+          title: '数据',
+          collapsable: false,
+          children: [
+            '',
           ]
         }
       ],
@@ -69,6 +82,7 @@ module.exports = {
           ]
         }
       ],
+
       '/线下/': [
         {
           title: '线下',
