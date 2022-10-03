@@ -109,10 +109,7 @@ module.exports = {
           title: '线下',
           collapsable: false,
           children: [
-            '',
-            '喜茶',
-            '奈雪的茶',
-            "十三余",
+            '联名',
             '国风市集',
             "点茶",
             "文化",
