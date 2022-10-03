@@ -72,7 +72,6 @@ module.exports = {
           title: '出圈',
           collapsable: false,
           children: [
-            '',
             '权威媒体',
           ]
         }
@@ -99,6 +98,7 @@ module.exports = {
             '',
             '插画',
             '剪辑',
+            "同人文",
             '同人曲'
           ]
         }
