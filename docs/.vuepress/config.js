@@ -73,6 +73,7 @@ module.exports = {
           collapsable: false,
           children: [
             '权威媒体',
+            '发文报道',
           ]
         }
       ],
