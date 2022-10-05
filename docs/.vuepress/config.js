@@ -131,6 +131,7 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/last-updated',
+    'reading-progress'
 
   ]
 }
