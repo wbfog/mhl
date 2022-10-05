@@ -73,7 +73,8 @@ module.exports = {
           collapsable: false,
           children: [
             '权威媒体',
-            '发文报道',
+            '外国媒体',
+            '发文报道'
           ]
         }
       ],
@@ -113,6 +114,7 @@ module.exports = {
             '联名',
             '国风市集',
             "点茶",
+            "花月宴",
             "文化",
             "旅游",
             "商业"
