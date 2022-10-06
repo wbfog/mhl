@@ -130,11 +130,10 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    '@vuepress/back-to-top',
     '@vuepress/last-updated',
     'reading-progress',
-    'vuepress-plugin-catalog-graph'
+    '@vuepress/active-header-links'
 
   ]
 }
