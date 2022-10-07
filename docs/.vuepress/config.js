@@ -79,7 +79,6 @@ module.exports = {
           ]
         }
       ],
-      '/主创/': getSideBar("主创", "主创团队"),
       '/数据/': [
         {
           title: '数据',
@@ -107,6 +106,7 @@ module.exports = {
           ]
         }
       ],
+      '/录人/': getSideBar("录人", "录人"),
       '/二创/': [
         {
           title: '二创',
