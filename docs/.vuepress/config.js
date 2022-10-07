@@ -62,7 +62,7 @@ module.exports = {
         link: '/科普/',
       },
       {
-        text: '亦菲',
+        text: '盼儿',
         link: '/亦菲/',
       },
     ],
@@ -70,12 +70,13 @@ module.exports = {
       '/出圈/': [
         {
           title: '出圈',
-          collapsable: false,
+          collapsable: true,
           children: [
             '权威媒体',
             '外国媒体',
             '发文报道',
-            '名人追录'
+            '名人追录',
+            '品牌联动'
           ]
         }
       ],
