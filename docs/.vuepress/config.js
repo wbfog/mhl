@@ -54,17 +54,17 @@ module.exports = {
         link: '/录人/',
       },
       {
-        text: '主创',
-        link: '/主创/',
-      },
-      {
         text: '数据',
         link: '/数据/',
       },
       {
         text: '科普',
         link: '/科普/',
-      }
+      },
+      {
+        text: '亦菲',
+        link: '/亦菲/',
+      },
     ],
     sidebar: {
       '/出圈/': [
@@ -93,7 +93,20 @@ module.exports = {
           ]
         }
       ],
-      '/录人/': getSideBar("录人", "录人"),
+      '/亦菲/': [
+        {
+          title: '刘亦菲',
+          collapsable: false,
+          children: [
+            '',
+            '媒体报道',
+            '粉丝致敬',
+            '综合评价',
+            '片段赏析',
+            '后续影响'
+          ]
+        }
+      ],
       '/二创/': [
         {
           title: '二创',
