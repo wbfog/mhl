@@ -58,10 +58,6 @@ module.exports = {
         link: '/数据/',
       },
       {
-        text: '科普',
-        link: '/科普/',
-      },
-      {
         text: '盼儿',
         link: '/亦菲/',
       },
