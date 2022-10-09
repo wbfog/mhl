@@ -146,7 +146,6 @@ module.exports = {
     '@vuepress/last-updated',
     'reading-progress',
     '@vuepress/active-header-links'
-
   ]
 }
 
