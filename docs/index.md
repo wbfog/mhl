@@ -17,5 +17,5 @@ features:
   details: 峰值95.61，三年内TOP 1，9次破9，年度TOP 1，在播期间全程日冠，赵盼儿单人破9
 - title: 猫眼热度
   details: 峰值9888.7，两年内TOP 1，31次日冠，年度TOP 1，持续在榜112天，破在榜天数历史纪录
-footer: Made by Hang with ❤️
+footer: 刘亦菲的影迷朋友们倾情奉献 ❤️
 ---
