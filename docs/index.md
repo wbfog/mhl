@@ -16,10 +16,10 @@ features:
 - title: V榜
   details: 峰值95.61，三年内TOP 1，9次破9，年度TOP 1，在播期间全程日冠，赵盼儿单人破9
 - title: 猫眼热度
-  details: 峰值9888.7，两年内TOP 1，31次日冠，年度TOP 1，持续在榜112天，破在榜天数历史纪录
+  details: 峰值9888.7，两年内TOP 1，33次日冠，年度TOP 1，持续在榜112天，破在榜天数历史纪录
 ---
 
 
 ::: slot footer
-Made By 刘亦菲的影迷朋友们 ❤️ | Copyright © 2022-present | [意见反馈](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
+Made By 刘亦菲的影迷朋友们 ❤️ | Copyright ©2022 | [Feedback](https://www.douban.com/group/topic/276689884/?_i=5716003Rn8heGv)
 :::
