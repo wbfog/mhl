@@ -62,13 +62,14 @@ module.exports = {
         link: '/主创/',
       },
       {
+        text: '主创',
+        link: '/主创/',
+      },
+      {
         text: '盼儿',
         link: '/亦菲/',
       },
-      {
-        text: '主创',
-        link: '/主创/',
-      }
+
     ],
     sidebar: {
       '/出圈/': [
