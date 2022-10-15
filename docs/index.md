@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /image/menghualu.jpg
+heroImage: /image/data/guanfanghaibao.jpg
 tagline: 年少便知天仙好，东京一梦忘不了
 actionText: 进入 →
 actionLink: /线下/
