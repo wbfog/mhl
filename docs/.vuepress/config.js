@@ -41,31 +41,31 @@ module.exports = {
     nav: [
       {
         text: '出圈',
-        link: '/出圈/',
+        link: '/discuss/',
       },
       {
         text: '线下',
-        link: '/线下/',
+        link: '/xianxia/',
       },
       {
         text: '剧情',
-        link: '/剧情/',
+        link: '/scenario/',
       },
       {
         text: '二创',
-        link: '/二创/',
+        link: '/re-creation/',
       },
       {
         text: '录人',
-        link: '/录人/',
+        link: '/luren/',
       },
       {
         text: '数据',
-        link: '/数据/',
+        link: '/data/',
       },
       {
         text: '主创',
-        link: '/主创/',
+        link: '/team/',
       },
       {
         text: '盼儿',
@@ -74,37 +74,37 @@ module.exports = {
 
     ],
     sidebar: {
-      '/出圈/': [
+      '/discuss/': [
         {
           title: '出圈',
           collapsable: true,
           children: [
-            '权威媒体',
-            '外国媒体',
-            '发文报道',
-            '纸质刊物',
-            '教育考试',
-            '知网收录',
-            '名人追录',
-            '品牌联动',
-            '文化推广',
-            '各类节目',
-            '角色台词',
-            '音乐出圈'
+            'authority',
+            'international',
+            'all',
+            'paper',
+            'education',
+            'zhiwang',
+            'celebrity',
+            'brand',
+            'culture',
+            'tv-shows',
+            'lines',
+            'music'
           ]
         }
       ],
-      '/数据/': [
+      '/data/': [
         {
           title: '数据',
           collapsable: false,
           children: [
             '',
-            '官方数据',
-            '权威榜单',
-            '重点指数',
-            '商务数据',
-            '其他数据'
+            'official',
+            'authority',
+            'important',
+            'business',
+            'other'
           ]
         }
       ],
@@ -124,74 +124,73 @@ module.exports = {
           ]
         }
       ],
-      '/录人/': [
+      '/luren/': [
         {
           title: '录人',
           collapsable: false,
           children: [
             '',
-            '录学',
-            '缺德录人',
-            '高贵录人',
-            '段子',
-            '小黄花',
-            '团建',
-            '网站相关'
+            'live',
+            'luren-1',
+            'luren-2',
+            'meme',
+            'flower',
+            'activity',
+            'this-site'
           ]
         }
       ],
-      '/二创/': [
+      '/re-creation/': [
         {
           title: '二创',
           collapsable: false,
           children: [
             '',
-            '插画',
-            '剪辑',
-            "同人文",
-            '同人曲'
+            'drawing',
+            'editing',
+            "article",
+            'song'
           ]
         }
       ],
 
-      '/主创/': [
+      '/team/': [
         {
           title: '主创团队',
           collapsable: false,
           children: [
             '',
-            '幕后团队',
-            '主演相关',
-            '配角相关',
+            'behind',
+            'leading',
+            'supporting',
           ]
         }
       ],
-      
-      '/剧情/': [
+      '/scenario/': [
         {
           title: '剧情',
           collapsable: false,
           children: [
-            '分集解析',
-            '全剧解析',
-            '人物分析',
-            '延伸讨论',
+            'fenji',
+            'all',
+            'character',
+            'other',
           ]
         }
       ],
 
-      '/线下/': [
+      '/xianxia/': [
         {
           title: '线下',
           collapsable: false,
           children: [
-            '联名',
-            '国风市集',
-            "点茶",
-            "花月宴",
-            "文化",
-            "旅游",
-            "商业"
+            'lianming',
+            'guofeng',
+            "diancha",
+            "huayueyan",
+            "culture",
+            "travel",
+            "business"
           ]
         }
       ],
