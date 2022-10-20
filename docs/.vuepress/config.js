@@ -69,7 +69,7 @@ module.exports = {
       },
       {
         text: '盼儿',
-        link: '/亦菲/',
+        link: '/cc/',
       },
 
     ],
@@ -108,19 +108,19 @@ module.exports = {
           ]
         }
       ],
-      '/亦菲/': [
+      '/cc/': [
         {
           title: '刘亦菲',
           collapsable: false,
           children: [
             '',
-            '媒体报道',
-            '精彩剧照',
-            '片段赏析',
-            '综合评价',
-            '再次合作',
-            '后续影响',
-            '粉丝致敬',
+            'reports',
+            'photo',
+            'clips',
+            'reviews',
+            'again',
+            'after',
+            '20th',
           ]
         }
       ],
