@@ -9,7 +9,7 @@
 ![](/image/erchuang/piant/hu/22-min.jpg)
 
 
-梳洗罢，独依望江楼
+盈盈一水间，脉脉不得语
 ![](/image/erchuang/piant/hu/18-min.jpg)
 
 念去去，千里烟波，暮霭沉沉楚天阔

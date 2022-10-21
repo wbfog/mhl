@@ -3,7 +3,7 @@ home: true
 heroImage: /image/data/guanfanghaibao1015.jpg
 tagline: 倾盖如故，白头如新
 actionText: 进入 →
-actionLink: /出圈/
+actionLink: /discuss/
 features:
 - title: 腾讯官方
   details: 热播期集均播放量1.427亿，单日峰值超2亿，热度33520，年度TOP 1
