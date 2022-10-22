@@ -24,7 +24,23 @@ module.exports = {
     ['meta', { name: 'baidu-site-verification', content: 'code-zD3j0sQS0X'}],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { name: 'keywords', content: '刘亦菲,梦华录,天仙,电视剧,宋朝,古装剧,群像剧,赵盼儿,录人,出圈, A Dream of Splendor,Crystal Liu'}]
+    ['meta', { name: 'keywords', content: '刘亦菲,梦华录,天仙,电视剧,宋朝,古装剧,群像剧,赵盼儿,录人,出圈, A Dream of Splendor,Crystal Liu'}],
+
+
+    [
+      "script",
+      {},
+      `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?108a67e589574ed7c77e2710083413dc";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+        `
+    ]
+
   ],
 
   /**
