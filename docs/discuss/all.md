@@ -102,7 +102,6 @@
 * [大连城市书房 | 茶盏里的烟火气，从“茶百戏”赏中华茶文化](https://mp.weixin.qq.com/s/U2JhwYavZStFCZsFRlAjUA)
 * [耳朵里的博物馆 | 《梦华录》爆火！原来“咖啡拉花”这件事，老祖宗在宋朝就玩明白了…](https://mp.weixin.qq.com/s/4VTtqe9Kbb3YJeQYUi01rw)
 * [混知 | 一开始，茶不是用来喝的！](https://mp.weixin.qq.com/s/knnp3IgAdKZnHncLPtbHhw)
-* [南京市博物总管 | 博物致知｜是的，《梦华录》的名场面来了。（上）](https://mp.weixin.qq.com/s/rlSTq9nk1vN5KRB9hZAu6A): `分上下篇`
 * [青春上海 | 原来宋朝人就会拉花了？揭秘中国独一无二的点茶文化→](https://mp.weixin.qq.com/s/8_JHWRF6RaNnMIjMw2kKDQ)
 * [三联书店三联书情 | 郑培凯：宋朝点茶中的审美 | 附宋朝书单](https://mp.weixin.qq.com/s/8_JHWRF6RaNnMIjMw2kKDQ)
 * [优秀网页设计 |美哭了！梦华录热播“茶百戏”引关注，“咖啡拉花”尽源自我国唐宋？ ](https://mp.weixin.qq.com/s/owlrnR98FBrYH2MJF9cB-g)
@@ -124,7 +123,6 @@
 * [CYCA形体礼仪 | 茶桌礼仪 | 跟着《梦华录》一起，体验中国传统文化的饮茶之道](https://mp.weixin.qq.com/s/A3BEG8gUYTdVbCDx6TJTpg)
 * [成都高新科普e | 《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/uChQMfNonysZ93socZ2NlQ)
 * [我们都爱宋朝（吴钩） | 梦华录：宋朝人是怎么斗茶的？](https://mp.weixin.qq.com/s/6H96CbOkwQE1P4AXA-qKpA)
-* [福建文艺网 | “太上头”！藏在《梦华录》中的福文化……](https://mp.weixin.qq.com/s/CCkCDN9WEN9_6PZPbVylww)
 * [锦观新闻 | 《梦华录》太上头，宋韵点茶现“锦观”](https://mp.weixin.qq.com/s/10y7y3jkJaefxeNVFvu3gQ)
 * [锦观新闻 | 只知道《梦华录》？成都早有茶百戏](https://mp.weixin.qq.com/s/_Ew0kyVSz_BoKfUlpMcFTA)
 * [科技日报 | 咖啡拉花，又是古人玩剩下的！《梦华录》里的这一幕，学问非常大……](https://mp.weixin.qq.com/s/Fya8T9OGEN2SLgAqhFo5mg)
