@@ -147,6 +147,7 @@ module.exports = {
           children: [
             '',
             'live',
+            'zhanbao',
             'luren-1',
             'luren-2',
             'meme',
