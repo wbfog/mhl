@@ -92,7 +92,7 @@
 
 ## 小黄花种植活动
 
-![](/image/lu/flow.bmp)
+![](/image/lu/flow.jpg)
 
 链接: [豆瓣讨论 | 梦华录《小黄花种植活动》来啦+抽周边 ](https://www.douban.com/group/topic/276486341/?_i=65714974bea9330,5720766OBxYktj&dt_platform=wechat_friends&dt_dapp=1)
 

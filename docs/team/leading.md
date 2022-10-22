@@ -6,7 +6,7 @@
 请参考: [刘亦菲](/cc/reports.html)
 
 
-![](/image/team/pan-2.gif)
+![](/image/team/cat.jpg)
 
 
 ## 顾千帆(陈晓)
