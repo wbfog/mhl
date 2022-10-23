@@ -38,6 +38,8 @@
 
 ![](/image/lu/dfyc.jpg)
 
+(图片作者: 粥粥)
+
 
 ## 德塔文->德叔
 
@@ -75,3 +77,5 @@
 
 ![](/image/lu/gaogui/xml.jpg)
 ![](/image/lu/gaogui/xllz.jpg)
+
+(图片作者: 粥粥)
