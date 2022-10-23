@@ -28,3 +28,14 @@
 ![](/image/cc/cv-14.jpg)
 
 [【赵盼儿成长向 | 落子无悔】先自盛开，再听风吟，女子立世当如此](https://www.bilibili.com/video/BV1KF411V7Jz/?spm_id_from=autoNext&vd_source=087d424162639011a33e46dbbd019cfd)
+
+
+
+其他剪辑:
+
+
+* [“天青色等烟雨，而我在等你” ——绝美混剪](https://www.bilibili.com/video/BV1eS4y1p7LD/?p=1&share_medium=android&share_plat=android&share_session_id=42d8f315-b102-4390-8b4c-c462b6513184&share_source=COPY&share_tag=s_i&timestamp=1656587254&unique_k=djSxedU)
+* [【谪仙】赵盼儿跑步｜好怕她跑着跑着下一秒就要羽化登仙飞走了！](https://www.bilibili.com/video/BV1NU4y1D7Bc/)
+* [小红书 | “闲抱琵琶寻旧曲，远山眉黛绿”](https://www.xiaohongshu.com/discovery/item/62c0fd1d000000000303cde0?app_platform=android&app_version=7.59.1&share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=5f789284000000000101cb18&apptime=1666532837): 虞姬和赵盼儿的片段
+* [小红书 | 她真的美到心坎里](https://www.xiaohongshu.com/discovery/item/62ce4e4d000000000f00b45d?app_platform=android&app_version=7.59.1&share_from_user_hidden=true&type=video&xhsshare=WeixinSession&appuid=5f789284000000000101cb18&apptime=1666534653)
+* [【刘亦菲|梦华录】已经十六年了](https://www.bilibili.com/video/BV1G34y1775i/)
