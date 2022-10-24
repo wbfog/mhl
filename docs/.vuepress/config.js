@@ -229,7 +229,10 @@ module.exports = {
     'vuepress-plugin-baidu-autopush',
     '@vuepress/last-updated',
     'reading-progress',
-    '@vuepress/active-header-links'
+    '@vuepress/active-header-links',
+    ['sitemap', {
+      hostname: 'https://mhlyf.cc'
+    }]
   ]
 }
 
