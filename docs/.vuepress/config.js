@@ -159,6 +159,7 @@ module.exports = {
             'luren-1',
             'luren-2',
             'observe',
+            'cute',
             'creation',
             'meme',
             'flower',

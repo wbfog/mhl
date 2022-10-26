@@ -22,12 +22,82 @@
 作者: [小红书 | 晴菓子](https://www.xiaohongshu.com/user/profile/601cba840000000001000b61)
 
 
+## 角色作品
+
+![](/image/cc/piant/pan.jpg)
+
+作者: [官官an](https://weibo.com/u/3884587949?tabtype=home)
+
+
+![](/image/cc/piant/pan-2.jpg)
+
+作者: [蓝袈061](https://weibo.com/u/1905039872)
+
+
+![](/image/cc/piant/pan-3.jpg)
+
+作者: [持岁](https://weibo.com/u/6037181039)
+
+![](/image/cc/piant/longer.jpg)
+
+作者: [佳儿在画画](https://weibo.com/n/%E4%BD%B3%E5%84%BF%E5%9C%A8%E7%94%BB%E7%94%BB?tabtype=home)
+
+
+![](/image/cc/piant/longling.jpg)
+
+作者: [霜云小鹤](https://weibo.com/u/6506350785)
+
+
+![](/image/cc/piant/mulan.jpg)
+
+作者: [小红书 | 三三](https://www.xiaohongshu.com/user/profile/598a94fe50c4b4652f44c376?xhsshare=CopyLink&appuid=5f789284000000000101cb18&apptime=1666782928)
+
+
+![](/image/cc/piant/mulan-2.jpg)
+
+作者: [插画杨权](https://weibo.com/u/2406295573)
+
+
+
+## 有风相关
+
+![](/image/cc/piant/yf.jpg)
+
+作者: [芍园_](https://weibo.com/u/1905246341)
+
+
+## 活动商务
+
+![](/image/cc/piant/wb.jpg)
+
+作者: [Rentaotao任桃桃](https://weibo.com/u/5207524326)
+
+
+![](/image/cc/piant/queen.jpg)
+
+
+![](/image/cc/piant/bus-1.jpg)
+
+作者: [里酿无云](https://weibo.com/u/5524092797)
+
+
 ## 杂志拍摄
 
 ![](/image/cc/piant/mag.jpg)
 
 作者: [jjseason](https://weibo.com/1871956515?refer_flag=1001030103_)
 
+
+![](/image/cc/piant/mag-2.jpg)
+
+作者: [颜王陛下](https://weibo.com/duanxiacryice?tabtype=feed)
+
+
+![](/image/cc/piant/jiaren.jpg)
+
+杂志: 嘉人
+
+作者: [淮水青山](https://weibo.com/u/6632172232)
 
 ## 创维代言
 
