@@ -158,6 +158,7 @@ module.exports = {
             'zhanbao',
             'luren-1',
             'luren-2',
+            'observe',
             'creation',
             'meme',
             'flower',
