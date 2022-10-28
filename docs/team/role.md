@@ -2,6 +2,62 @@
 
 《梦华录》中的各大主配角深受画手们的喜爱，于是诞生多样二创。其中，A七鱼和呼葱觅蒜两位创作众多，可见[二创](/re-creation)专区。
 
+## 名场面
+
+### 花月宴
+
+![](/image/team/role/huayue1.jpg)
+[小红书 | 画画的心荷](http://xhslink.com/IlkPNk)
+
+![](/image/team/role/huayue2.jpg)
+[小红书 | 京 十二](http://xhslink.com/YHlPNk)
+
+![](/image/team/role/huayueyan1-min.jpg)
+[小红书 | 水晶爱画画](http://xhslink.com/kSF2Mk)
+
+![](/image/team/role/huayueyan2-min.jpg)
+[小红书 | Sera](http://xhslink.com/QQLhNk)
+
+其他二创请参考以下链接：
+* [小红书 | 蒲月-may](http://xhslink.com/ttDONk)
+* [小红书 | -山胡-](http://xhslink.com/P1HONk)
+
+
+### 何四在人间
+
+![](/image/team/role/huayueyan3-min.jpg)
+
+[小红书 | 羊羊羊](http://xhslink.com/B67gNk)
+
+![](/image/team/role/huayueyan4-min.jpg)
+[小红书 | 狄野小森](http://xhslink.com/hFa2Mk)
+
+![](/image/team/role/hesi5-min.jpg)
+
+[小红书 | Sera](http://xhslink.com/QQLhNk)
+
+
+![](/image/team/role/hesi4-min.jpg)
+
+[小红书 | xxcxx](http://xhslink.com/k2QhNk)
+
+
+![](/image/team/role/hesi1-min.jpg)
+[小红书 | 原来是小菜](http://xhslink.com/2uOgNk)
+
+
+![](/image/team/role/hesi2-min.jpg)
+[小红书 | Lena莉娜酱](http://xhslink.com/xn1gNk)
+
+![](/image/team/role/hesi9-min.jpg)
+
+[小红书 | 雨今云古](http://xhslink.com/H7bjNk)
+
+
+### 蹴鞠
+
+![](/image/team/role/cuju-min.jpg)
+[小红书 | 早早早](http://xhslink.com/bal2Mk)
 
 ## 群像
 
@@ -97,14 +153,15 @@
 ![](/image/team/role/sanfeng1-min.jpg)
 [小红书 | 画小匠不想画画](http://xhslink.com/Umj5Nk)
 
+![](/image/team/role/sanniang10-min.jpg)
+[小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
 
 其他二创请参考以下链接：
 
-* [小红书 | 柠檬乖乖咩](http://xhslink.com/rpw4Nk)
-* [小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
-* [小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
-* [小红书 | 花半の画](http://xhslink.com/Ij94Nk)
-* [小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
+[小红书 | 画小匠不想画画](http://xhslink.com/icm5Nk)
+[小红书 | 画小匠不想画画](http://xhslink.com/x0y5Nk)
+[小红书 | 花半の画](http://xhslink.com/Ij94Nk)
+[小红书 | 画画的琳一linyi](http://xhslink.com/2dH5Nk)
 
 
 ## 三娘
@@ -397,10 +454,23 @@
 ![](/image/team/role/hesi13-min.jpg)
 [小红书 | 遥不知](http://xhslink.com/xcz2Mk)
 
+
+![](/image/team/role/hesi11-min.jpg)
+
+[小红书 | 没有法力的妖怪VV](http://xhslink.com/rZruNk)
+
+
 ![](/image/team/role/hesi14-min.jpg)
 
 [小红书 | Neeko秋小白 ](http://xhslink.com/fbO2Mk)
 
+
+![](/image/team/role/hesi15-min.jpg)
+[@春日小羔PuppyBao](https://m.weibo.cn/6691230486/4786182947342018)
+
+
+![](/image/team/role/hesi16-min.jpg)
+[小红书 | 支枕听河流](http://xhslink.com/lSljNk)
 
 
 其他二创请参考以下链接：
@@ -427,6 +497,8 @@
 [小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
 
 ### 群演（刘远帆）
+
+![](/image/team/role/yanjizuicha-min.jpg)
 
 [@安小逸插画](https://m.weibo.cn/1809723895/4777453702616385)
 
