@@ -125,6 +125,7 @@ module.exports = {
             '',
             'official',
             'authority',
+            'honor',
             'important',
             'business',
             'other'
@@ -196,6 +197,7 @@ module.exports = {
             'behind',
             'leading',
             'supporting',
+            'cut',
             'juesehao',
             'thoughts',
             'role',
