@@ -9,7 +9,7 @@
 ![](/image/team/role/ximen1.jpg)
 > 三娘姐！
 
-![](/image/team/role/xinmen2.jpg)
+![](/image/team/role/ximen2.jpg)
 
 
 * [@西门卤蛋-](https://weibo.com/6482473691/KbFWBm0Ui)
@@ -21,9 +21,11 @@
 ## zhuzhu
 
 > 陈廉
+
 ![](/image/team/role/zhu2.jpg)
 
 > 沈如琢
+
 ![](/image/team/role/zhu1.jpg)
 [小红书 | zhuzhu](https://v.douyin.com/M7PQmN1)
 

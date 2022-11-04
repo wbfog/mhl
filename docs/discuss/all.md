@@ -1,7 +1,7 @@
 # 破圈讨论
 
 本文收录诸多媒体从各个角度对梦华录的讨论, 因讨论内容过多，部分媒体发布了多篇报道，也有报道会被多个媒体转载，本文只收录部分代表性内容。
-目前共计收录`32`个分类，`414`个条目。
+目前共计收录`32`个分类，`415`个条目。
 
 同时，《梦华录》也掀起了一股“宋朝热”，激发起无数观众对于那个文化鼎盛时期民俗百态的好奇与向往。读者可从本文中散落于不同行业的讨论文章中一窥全豹。
 
@@ -252,7 +252,7 @@
 * [休克文案 | 我在《梦华录》里学广告](https://mp.weixin.qq.com/s/r2msJQ7hqjJk8hw-lJWpAA)
 * [浮雪点茶品牌号 | 顾千帆没喝到的茶，我先喝到了](https://mp.weixin.qq.com/s/J3zY_bSe6WZzlMKHKivZKQ)
 * [CEO品牌观察 | 《梦华录》带热宋制汉服，这门生意却比电视精彩](https://mp.weixin.qq.com/s/jzyyazM0aodSN5VqovQiKw)
-* [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018?_wb_client_=1)
+* [KgoSocial | 喜茶×梦华录联名卖爆！2022最强IP迎来品牌联名潮，追热点还得看喜茶](https://weibo.com/ttarticle/x/m/show/id/2309404825211899085018)
 * [有数DataVision | 疯狂的联名潮，着急的品牌商](https://mp.weixin.qq.com/s/pd809CdMar_dSwypEvHPKA)
 * [有数DataVision | 你的奶茶自由，养活了一群“卖杯子的” | 有IPO](https://mp.weixin.qq.com/s/fK1GR5YcWbIyYiwCUMTKIg)
 * [新商业LAB | 边看《梦华录》，边学盼儿姐如何经营「网红茶馆」](https://mp.weixin.qq.com/s/EKqfs-k9bS5MSA4VzzJj4Q)
@@ -554,6 +554,7 @@
 * [TimeOut上海 | 如果宋代也有小红书，最热门的帖子一定是“四般闲事”……](https://mp.weixin.qq.com/s/D5ARWssX0gAurn-ZWiRMmg)
 * [黄岛广电_西海岸传媒（青岛市黄岛区广播电视台） | 现象级的古偶《梦华录》引发了众多网友们诸多议论](https://m.weibo.cn/5601988732/4828140876861449)
 * [好课堂试听咨询处 | 重庆专升本知识点](https://m.weibo.cn/6276849622/4782531674637466)
+* [@联播文艺 | 虽然《梦华录》已经播完，可这样迷人的传统文化还远不于此。](https://weibo.com/2375541513/McGWJ3mYU)
 
 
 ## 职场
