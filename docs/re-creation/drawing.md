@@ -1,6 +1,13 @@
 # 插画
 
-因为《梦华录》相关手绘插画及画师数量非常庞大，本文只收录部分数据。
+因为《梦华录》相关手绘插画及画师数量非常庞大，无法一一收录。部分插画可以参考其他板块:
+
+* [盼儿/个人二创](/cc/painting.html): 刘亦菲其他二创作品
+* [盼儿/盼儿手绘](/cc/role.html): 盼儿相关的手绘
+* [主创/角色二创](/team/role.html): 除女主外其他角色的二创作品
+* [主创/清奇二创](/team/unique.html): 画风迥异的二创
+* [录人/二创](/luren/creation.html): 录人相关的二创作品
+* [剧情/剧情二创](/scenario/re-creation.html): 剧情相关的二创作品
 
 
 ## 相关画手
@@ -46,13 +53,6 @@
 ![](/image/team/role/qun5.jpg)
 [小红书](http://xhslink.com/FKT4Nk)
 
-### 微博：小泥巴的水色世界
-
-![](/image/erchuang/piant/gupan-1.jpg)
-
-简介: 爱微藏签约名家
-
-地址: [Weibo](https://weibo.com/1655835327?tabtype=home)
 
 ### 微博：画画的Fancy
 
@@ -69,16 +69,21 @@
 
 ### 微博：冯婷-绘玩儿
 
-![](/image/erchuang/piant/gupan-2.jpg)
+![](/image/erchuang/piant/fengting.jpg)
 
 简介: 贵州传播动力文化传媒有限公司 设计总监
 
-地址: [Weibo](https://weibo.com/n/冯婷-绘玩儿)
+地址: [Weibo](https://weibo.com/3174386301/Ly7zhkuvj)
 
 
-### 小红书: 大雨DAYU
+### 微博：大雨DAYU-
 
-![](/image/erchuang/piant/gupan-4.jpg)
+![](/image/erchuang/piant/hezhao.jpg)
+地址: [Weibo](https://weibo.com/7632232101/LDmUNmG9r)
+
+![](/image/erchuang/piant/dayu.jpg)
+
+地址: [Weibo](https://weibo.com/7632232101/LBa5OtSaA)
 
 
 ### 小红书：-YaoYin-
@@ -92,6 +97,14 @@
 ![](/image/team/role/he1.jpg)
 
 [小红书 | 葡萄Q版插画](http://xhslink.com/Nckp0k)
+
+
+### 微博：蓝澜不落
+
+![](/image/erchuang/piant/wujiemei.jpg)
+
+[微博 | 蓝澜不落](https://weibo.com/2983226011/Md3de9mba)
+
 
 其他二创请参考以下链接：
 
