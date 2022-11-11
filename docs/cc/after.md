@@ -14,6 +14,7 @@
 * [艾漫数据 | 2022年上半年商业价值数据盘点：头部爱豆/在播剧演员提升明显](https://mp.weixin.qq.com/s/BXcHVyWjFjP_uApvfkh5TA): `其中《梦华录》主演刘亦菲，陈晓均在榜`
 * [@微热点 | 2022年10月25日，微热点研究院公布2022年以来，古装美人关联度，刘亦菲断层第一！](https://weibo.com/3960037780/MbVAeDXGa)
 * [@凤凰网娱乐](https://share.api.weibo.cn/share/345757731%2C4832117245349530.html)
+> “像《梦华录》这样的作品，证明了刘亦菲的人气，之后我们也会更愿意花钱在她的作品上。”
 
 ![](/image/cc/yule.jpg)
 
@@ -46,7 +47,7 @@
 
 至此，刘亦菲目前有且仅有的4个代言，皆是全球代言！祝贺演员刘亦菲！`“赵娘子 生意不错啊”`
 
-![](/image/discuss/education/daiyantupianhuizong1.jpg)
+![](/image/cc/daiyan.jpg)
 
 
 

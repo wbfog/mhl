@@ -4,10 +4,22 @@
 
 
 ## 三姐妹
+![](/image/erchuang/piant/sanjiemei.jpg)
+
+* [小红书 | 插画师鹿星河](http://xhslink.com/d04i2k)
+* [小红书 | 插画师鹿星河](http://xhslink.com/Vz4i2k)
+
+![](/image/erchuang/piant/sanjiemei21.jpg)
+* [小红书 | 黄图图](http://xhslink.com/4ZYi2k)
+* [小红书 | 黄图图](http://xhslink.com/S4Yi2k)
+
 
 ![](/image/team/role/chisui.jpg)
-
 [@持岁](https://weibo.com/6037181039/LuUtIy2z6)
+
+![](/image/team/role/guzhua.jpg)
+
+[小红书 | 孤爪](http://xhslink.com/sZ2a0k)
 
 ![](/image/team/role/sanjiemei6.jpg)
 [@安小逸插画](https://m.weibo.cn/1809723895/4781743020180699)
@@ -38,8 +50,24 @@
 * [小红书 | 小张是画渣吖～](http://xhslink.com/CDd5Nk)
 * [@迦矞](https://m.weibo.cn/5022492528/4777811145132846)
 
+## 顾盼生辉
+
+![](/image/erchuang/piant/gupan-1.jpg)
+
+[@小泥巴的水色世界](https://m.weibo.cn/1655835327/4785376683626424)
+
+![](/image/erchuang/piant/gupan-2.jpg)
+[@冯婷-绘玩儿](https://m.weibo.cn/3174386301/4781322474883821)
+
+![](/image/erchuang/piant/gupan-4.jpg)
+
+[@大雨DAYU-](https://weibo.com/7632232101/M7STcbczb)
+
 
 ## 招娣&陈廉
+
+![](/image/team/role/zhilian4.jpg)
+[小红书 | Neeko秋小白](http://xhslink.com/OF9c0k)
 
 ![](/image/team/role/zhaodichenlian3-min.jpg)
 
@@ -113,7 +141,7 @@
 
 其他二创请参考以下链接：
 * [小红书 | 绘画的Bobo喵](http://xhslink.com/clv2Pk)
-* [小红书 | 周鱼儿](http://xhslink.com/FTL2Pk)
+* [小红书 | 冰清](http://xhslink.com/Sgjj0k)
 
 ## 三娘
 
@@ -224,7 +252,7 @@
 * [小红书 | 伽利略MsGalileo](http://xhslink.com/aox3Nk)
 * [小红书 | 骨月盈盈（佛系画手）](http://xhslink.com/9j33Nk)
 * [小红书 | 花椒和草蔻](http://xhslink.com/f7T3Nk)
-* [小红书 | 画画的琳一linyi](http://xhslink.com/6CN3Nk)
+* [小红书 | 画画的琳一linyi](http://xhslink.com/paLW2k)
 * [小红书 | 灵-ling](http://xhslink.com/orn3Nk)
 * [小红书 | 木子](http://xhslink.com/wUN3Nk)
 * [小红书 | 千山暮影](http://xhslink.com/o1q3Nk)
@@ -238,7 +266,30 @@
 * [小红书 | 珍儿画画了吗](http://xhslink.com/JAm3Nk)
 * [小红书 | Yvonne姬芳](http://xhslink.com/Rs13Nk)
 
+## 欧阳旭
 
+![](/image/team/role/shanyao.jpg)
+[小红书 | Neeko秋小白](http://xhslink.com/YHZc0k)
+
+
+## 池衙内
+
+![](/image/team/role/yanei1-min.jpg)
+[@后厨不干了](https://m.weibo.cn/5481320261/4805420181621703)
+
+
+![](/image/team/role/yanei2-min.jpg)
+[@ 寒_小喆](https://m.weibo.cn/3026106844/4819152001567319)
+
+
+![](/image/team/role/yanei3-min.jpg)
+[小红书 | 沈豆豆的插画世界](http://xhslink.com/LDJpNk)
+
+## 夫子
+
+![](/image/team/role/fuzi2-min.jpg)
+
+[小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
 
 ## 招娣
 
@@ -266,6 +317,9 @@
 
 
 ## 好好
+
+![](/image/team/role/haohao101.jpg)
+[小红书 | 盐慢慢Young](http://xhslink.com/rWYc0k)
 
 ![](/image/team/role/haohao1-min.jpg)
 [小红书 | 小王仙仙工作室（有绘画课）](http://xhslink.com/GIUPNk)
@@ -316,7 +370,6 @@
 * [小红书 | 陈公子](http://xhslink.com/3xAPNk)
 * [小红书 | 優月](http://xhslink.com/dmAPNk)
 * [小红书 | eleven](http://xhslink.com/57BPNk)
-* [小红书 | 周小渔Zoey](http://xhslink.com/tcCPNk)
 * [小红书 | 二花Erhua](http://xhslink.com/hwDPNk)
 * [小红书 | 困困](http://xhslink.com/wfEPNk)
 * [小红书 | ave旋](http://xhslink.com/30EPNk)
@@ -343,25 +396,11 @@
 * [小红书 | 凌凌子](http://xhslink.com/1xvQNk)
 * [小红书 | 小曾](http://xhslink.com/8bwQNk)
 
-## 池蟠
 
-![](/image/team/role/yanei1-min.jpg)
-[@后厨不干了](https://m.weibo.cn/5481320261/4805420181621703)
-
-
-![](/image/team/role/yanei2-min.jpg)
-[@ 寒_小喆](https://m.weibo.cn/3026106844/4819152001567319)
-
-
-![](/image/team/role/yanei3-min.jpg)
-[小红书 | 沈豆豆的插画世界](http://xhslink.com/LDJpNk)
-
-
-### 何四
+## 何四
 
 ![](/image/team/role/hesi3-min.jpg)
 [小红书 | 甜酒](http://xhslink.com/SR4gNk)
-
 
 ![](/image/team/role/hesi6-min.jpg)
 [小红书 | mtian](http://xhslink.com/fEBhNk)
@@ -387,11 +426,7 @@
 * [小红书 | mtian](http://xhslink.com/P0hhNk)
 * [小红书 | 半颗西瓜](http://xhslink.com/SmTiNk)
 
-## 夫子
 
-![](/image/team/role/fuzi2-min.jpg)
-
-[小红书 | Yuki酱](http://xhslink.com/t6u5Nk)
 ## 皇帝
 
 ![](/image/team/role/di.jpg)

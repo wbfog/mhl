@@ -1,13 +1,16 @@
 # 权威榜单
 
 ## 新华·文化产业IP指数
- 
+ ![](/image/data/ip-min.jpg)
+
 2022年11月2日，由新华社中国信息报社编制的《新华·文化产业IP指数报告（2022）》发布，《梦华录》位列综合价值榜第五位，更是`影视类IP榜首`！
 
 ![](/image/data/ip.jpg)
 
 > 新华•文化产业IP指数选取了2021年1月至2022年6月，有过文学、漫画、动画、影视、游戏、实体衍生等形态改编的作品或该时段的热门新IP共100个，从消费端、传播端、开发端和拓展端四个维度构建综合评价体系，公布了表现前50位的IP，《斗罗大陆》《人世间》《王者荣耀》《斗破苍穹》和《梦华录》列综合价值榜单前五。
-> 《梦华录》作为222年的古装黑马剧，获得了较高的基础影响力与公众认可度，分数分别为92.64和82.31。
+> 
+> 《梦华录》作为2022年的古装黑马剧，获得了较高的基础影响力与公众认可度，分数分别为92.64和82.31。
+> 
 > 剧中加入非遗传承、历史科普等元素，激发观众对非遗文化、传统文化的兴趣，为文化传承创造新时代抓手。
 
 **访问链接：**[新华指数：文化产业头部IP价值效应持续显著](https://www.ceis.cn/gsdt-lb/detail/20221102/3734947_1.html)
@@ -15,15 +18,17 @@
 ### 相关报道
 
 * [中国青年报| 哪些IP有潜力？《新华文化产业IP指数报告（2022）》在京发布](https://wenhua.youth.cn/whyw/202211/t20221103_14102427.htm)
-* [36氪| 新华文化产业IP指数报告（2022）：头部IP价值显著改编成功率高](https://36kr.com/newsflashes/1984151347020809)
+* [证券日报网| 《新华·文化产业IP指数报告（2022）》发布 网络文学占IP综合价值和潜力榜单过半](http://www.zqrb.cn/finance/hangyedongtai/2022-11-02/A1667385413023.html)
 * [视听广电| 哪些IP受关注？《人世间》《梦华录》等上榜](https://mp.weixin.qq.com/s/fx11PgKgxRATH6drAO5dNA)
 * [广州日报| 《新华文化产业IP指数报告（2022）》发布，动漫成为新型IP价值助推器](https://huacheng.gz-cmc.com/pages/2022/11/03/60e778fe95c1487ab7fcd983a7396591.html)
 * [上观新闻| 哪些文化IP最受关注？《斗罗大陆》《人世间》《梦华录》等上榜](https://www.shobserver.com/news/detail?id=545658)
 * [蓝鲸财经| 2022年新华IP指数报告发布：网络文学占IP综合价值和潜力榜单过半](https://lanjinger.com/d/195411)
-* [证券日报网| 《新华·文化产业IP指数报告（2022）》发布 网络文学占IP综合价值和潜力榜单过半](http://www.zqrb.cn/finance/hangyedongtai/2022-11-02/A1667385413023.html)
-
+* [36氪| 新华文化产业IP指数报告（2022）：头部IP价值显著改编成功率高](https://36kr.com/newsflashes/1984151347020809)
+* [@国际在线新闻 | 9日，微博运营高级副总裁曹增辉在出席#2022世界互联网大会乌镇峰会##网络传播与和平发展论坛#时谈到梦华录IP](https://weibo.com/2443459455/MefsiaZkm)
+* [吴怼怼 | 从好内容到好生意，IP商业价值如何纵横生长？](https://mp.weixin.qq.com/s/BtXiPbKnFEzxdS6UZPnzUg)
 
 ## Vlinkage
+![](/image/data/vbang-min.jpg)
 
 2022年7月2日，Vlinkage 发布上半年剧集盘点，《梦华录》被认证为年度爆款，流量口碑双赢。V榜剧集峰值`95.61`，`9次破9`，全剧平均87.19，均为`2022年冠军`，此外刘亦菲赵盼儿角色最高指数25次第一，最高9.03。原文摘录如下。
 
@@ -35,9 +40,10 @@
 
 <img src="/image/data/bangdan-v-bofangliang.png" width="1080">
 
-<img src="/image/data/bangdan-v-dawalishi.jpg" width="1080">
 
 ## 猫眼
+![](/image/data/maoyan-min.jpg)
+
 
 2022年7月2日，猫眼专业版发布《梦华录》收官解读，6月2日开播以来，峰值`9888.7`，为`2022年冠军`。持续在榜112天，`破在榜天数历史记录`。累计获得33次猫眼热度日冠，成为2022上半年猫眼最热网络剧、2022暑期档古装剧热度冠军、2022暑期档爱情剧热度冠军、2022暑期档日冠次数最多网络剧，其中，刘亦菲饰演的“赵盼儿”角色关注度53.2%，位列第一。
 
@@ -62,14 +68,13 @@
 <img src="/image/data/bangdan-maoyan-bannian3.jpg" width="1080">
 
 ## 德塔文
+![](/image/data/detawen-min.jpg)
 
 《梦华录》在播期间，日峰值`3.077`，3次破3，28次破2.5，周峰值2.911，均值2.674，均为`2022年冠军`。
 
 **访问链接：**[达瓦里氏：2022德塔文数据汇总](https://www.douban.com/group/topic/271608508/?_i=64720494c7ca53f,4721706l1NZefA&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
 **访问链接：**[风吹落雨：2019-2022年德塔文电视剧景气指数汇总](https://www.douban.com/group/topic/253244516/?_i=647213948d3da01,4721545l1NZefA&dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
-
-<img src="/image/data/bangdan-datawin-dawalishi.jpg" width="1080">
 
 <img src="/image/data/bangdan-datawin-dandu.jpg" width="1080">
 
