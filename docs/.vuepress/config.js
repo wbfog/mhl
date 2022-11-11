@@ -183,7 +183,8 @@ module.exports = {
             'craft',
             'music',
             "article",
-            'song'
+            'song',
+            "calligraphy"
           ]
         }
       ],

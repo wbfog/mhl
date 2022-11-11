@@ -2,6 +2,7 @@
 
 ![](/image/discuss/lines/lines.jpg)
 
+台词相关的书法二创作品请见: [二创/书法](/re-creation/calligraphy)
 
 
 

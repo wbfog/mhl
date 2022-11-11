@@ -82,7 +82,7 @@
 ![](/image/discuss/books/p-3.jpeg)
 
 
-**中国日报 | 刘亦菲陈晓《梦华录》，又甜又虐弘道韩国**
+**中国日报 | 刘亦菲陈晓《梦华录》，又甜又虐红到韩国**
 
 ![](/image/discuss/books/p-7.jpg)
 
