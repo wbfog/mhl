@@ -127,6 +127,7 @@ module.exports = {
             'authority',
             'honor',
             'important',
+            'community',
             'business',
             'other'
           ]
@@ -229,6 +230,7 @@ module.exports = {
             'tea',
             'nature',
             'history',
+            'dress',
             'officials',
             'law',
             'economics',
