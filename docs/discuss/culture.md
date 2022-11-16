@@ -176,6 +176,7 @@
 * [宜宾市图书馆 | 【电子图书】《梦华录》爆火，来书中邂逅一千年前的宋朝繁华！](https://mp.weixin.qq.com/s/E8pua5KTzXBp4m4GeFw8Kg)
 * [宜宾市图书馆 | 有声推读 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/G7sH_Vo9DvCkBD1tVYrctg)
 * [平陆县图书馆  | 一眼惊鸿，瞥见《梦华录》中的古典风采](https://mp.weixin.qq.com/s/PFg5Y6FIhJU0aCRSZXH8TA) `鲁山县图书馆也有发文`
+* [江苏图书馆 | 六月听书 | 一起去看《梦华录》之外大宋朝的繁花似锦](https://mp.weixin.qq.com/s/AADc6MZMzwYVB5hZPsaB_w)
 
 
 ### 博物馆
