@@ -1,13 +1,3 @@
 # 录人战报
 
-
-## 弹幕讨论
-![](/image/lu/danmu.jpg)
-
-
-## 豆瓣讨论
-
-同样录人们因为过于`话痨`, 将梦华录在豆瓣专组的讨论量聊成了`所有影视剧TOP1`
-
-
-详细数据可见: [豆瓣数据](/data/important.html#豆瓣)
+![](/image/lu/reports.jpg)
