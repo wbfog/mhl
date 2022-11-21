@@ -90,6 +90,20 @@
 <img src="/image/chuquan/mingren/huachunying.jpg" width="1080">
 
 
+## 联合国粮农专家关注
+
+> 联合国粮农组织农业文化遗产（GIAHS）科学委员会委员、农业文化遗产科学咨询小组副主席李先德研究员亲临中华茶百戏研究院考察茶百戏。
+
+链接：[梦华录火爆茶百戏受到联合国粮农专家关注](https://www.xiaohongshu.com/discovery/item/6373747f000000001b00da0e?app_platform=android&app_version=7.63.1&share_from_user_hidden=true&type=video&xhsshare=CopyLink&appuid=5f5cb2240000000001003771&apptime=1668512215)
+
+
+## 茶百戏列入青年大学习课程
+
+> 茶百戏用清水幻变图案，技艺独特，内涵丰富，体验性强，深受年青人喜爱。受到团中央重视，列入青年大学习课程，通过学习既掌握知识技能，又能增强民族自信、自强。
+
+链接：[梦华录中火爆的茶百戏也受到团中央重视](https://www.xiaohongshu.com/discovery/item/6379e9bf000000000d02bdb6)
+
+
 ## 官方报道
 
 * [半月谈 | 让点茶雅事“活起来”](https://mp.weixin.qq.com/s/YUna5v8z6DVBEN6OASXpIg)
@@ -147,6 +161,19 @@
 ### CCTV-3 全国第七届非遗博览会采访茶百戏
 
 * [CCTV3在第七届全国非遗博览会采访茶百戏](http://xhslink.com/j4muGj)
+
+### CCTV-1 《诗画中国》 
+
+> 用茶百戏表现文征明《林榭煎茶图》，和撒贝宁、赵雅芝、康震、范迪安共同讲述中华茶文化
+
+![](/image/discuss/cha/shzg1.jpg)
+
+![](/image/discuss/cha/shzg2.jpg)
+
+![](/image/discuss/cha/shzg3.jpg)
+
+
+链接：[《诗画中国》茶百戏节目](https://www.xiaohongshu.com/discovery/item/6368786200000000090115cf)
 
 ### CCTV-4 《遇鉴文明》
 
