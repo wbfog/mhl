@@ -168,7 +168,8 @@ module.exports = {
             'meme',
             'flower',
             'activity',
-            'this-site'
+            'this-site',
+            'support'
           ]
         }
       ],
